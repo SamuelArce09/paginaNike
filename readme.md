@@ -1,0 +1,1 @@
+estos estilo seran ejecutados con sass, esto es un pagina de nike tiene su logo una imagen en el medio y una palabra de fondo y la descripcion de la imagen y un boton a lo ultimo que dice details y tiene unos logos
